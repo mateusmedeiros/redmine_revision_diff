@@ -1,0 +1,6 @@
+= all_diff
+
+A simple plugin to show the diff of a revision on the same page as the list of modified files.
+
+I made it simple for now for my needs, using redmine 2.5 to test it and a git repo (as I only use git).
+I'll add tests and try stuff for real (like different redmine versions and other SCM's) soon, but for now, this is how I made it for me.
