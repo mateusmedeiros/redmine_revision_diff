@@ -12,6 +12,6 @@ Redmine::Plugin.register :all_diff do
   author 'Mateus "Doodad" Medeiros'
   description 'Shows the entire changeset of a commit in the changeset page, instead of just the links for each specific file diff'
   version '0.0.1'
-  #url ''
-  author_url 'http://github.com/mateusmedeiros'
+  url 'https://github.com/mateusmedeiros/redmine_all_diff'
+  author_url 'https://github.com/mateusmedeiros'
 end
