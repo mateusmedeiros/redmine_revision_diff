@@ -7,7 +7,7 @@ ActionDispatch::Callbacks.to_prepare do
   end
 end
 
-Redmine::Plugin.register :all_diff do
+Redmine::Plugin.register :redmine_all_diff do
   name 'Redmine all-diff plugin'
   author 'Mateus "Doodad" Medeiros'
   description 'Shows the entire changeset of a commit in the changeset page, instead of just the links for each specific file diff'
