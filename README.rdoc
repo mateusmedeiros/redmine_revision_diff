@@ -13,7 +13,7 @@ It should be a very simple thing to implement because I could do it adding just 
 From redmine directory
 
 cd plugins
-git clone https://github.com/mateusmedeiros/redmine_all_diff.git
+git clone https://github.com/mateusmedeiros/redmine_revision_diff.git
 
 And that's it.
 

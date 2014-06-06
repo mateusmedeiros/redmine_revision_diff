@@ -17,7 +17,7 @@ From redmine directory
 cd plugins
 ```
 ```bash
-git clone https://github.com/mateusmedeiros/redmine_all_diff.git
+git clone https://github.com/mateusmedeiros/redmine_revision_diff.git
 ```
 
 And that's it.
