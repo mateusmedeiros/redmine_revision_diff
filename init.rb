@@ -10,8 +10,8 @@ end
 Redmine::Plugin.register :redmine_revision_diff do
   name 'Diff on Revision'
   author 'Mateus "Doodad" Medeiros'
-  description 'Shows the entire diff of a commit directly in the revision view (the one that shows a list of modified files)'
-  version '0.1.0'
+  description 'Shows the entire diff of a commit directly in the revision view, instead of just a list of modified files'
+  version '0.1.1'
   url 'https://github.com/mateusmedeiros/redmine_revision_diff'
   author_url 'https://github.com/mateusmedeiros'
 end
