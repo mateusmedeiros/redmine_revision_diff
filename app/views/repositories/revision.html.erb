@@ -90,7 +90,7 @@
 </div>
 <% end %>
 
-<h3>Changes</h3>
+<h3><%=l(:label_changeset_plural)%></h3>
 <% cache(@cache_key) do -%>
     <%= render :partial => 'common/diff', :locals => {:diff => @diff, :diff_type => @diff_type, :diff_style => @diff_style } %>
 <% end -%>
