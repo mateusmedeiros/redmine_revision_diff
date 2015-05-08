@@ -1,4 +1,4 @@
-= redmine_all_diff
+= redmine_revision_diff {<img src="https://codeclimate.com/github/mateusmedeiros/redmine_revision_diff/badges/gpa.svg" />}[https://codeclimate.com/github/mateusmedeiros/redmine_revision_diff]
 
 This is a simple redmine plugin to show the diff of a revision on the revision page (redmine only show a list of modified files).
 
@@ -18,7 +18,7 @@ git clone https://github.com/mateusmedeiros/redmine_revision_diff.git
 And that's it.
 Alternatively, you can grab the latest version [here](http://www.redmine.org/plugins/redmine_revision_diff) and extract the redmine_revision_diff directory in the plugins directory.
 
-I made this with redmine 2.5.1 and intended to use in 2.4.3. It SHOULD work on other versions, at least on 2.x, but I have no idea right now what versions work and what don't. The fact I had to override a view probably don't help that, but I'll do my best when I have the time to test it in different versions with different SCM's and stuff ):
+This should work from Redmine 2.4.3 onwards. 
 
 = Tests
 
